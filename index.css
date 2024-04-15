@@ -1,0 +1,33 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+    
+}
+
+canvas
+{
+    background-color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+   
+    
+   
+}
+
+input
+{
+    position: absolute;
+    width: calc(100%-20px);
+    padding: 10px;
+    margin: 10px;
+    z-index: 100;
+    font-family: Bangers;
+    padding: 20px;
+    text-align: center;
+    
+}
